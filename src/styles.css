@@ -1,0 +1,13 @@
+.App {
+  font-family: arial;
+  text-align: center;
+}
+
+.error {
+  font-size: 0.8rem;
+  margin-top: 1rem;
+}
+
+body {
+  font-family: arial;
+}
